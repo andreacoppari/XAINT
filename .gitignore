@@ -1,0 +1,8 @@
+venv/
+checkpoints/*.pth
+
+data/RAVDESS/
+data/all_ravdess_files
+data/*.csv
+
+**/__pycache__
