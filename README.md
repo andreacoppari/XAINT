@@ -57,6 +57,12 @@ SHAP values provide a detailed breakdown of feature contributions, which are vis
 
 ---
 
+## Acknoledgement
+
+This project is funded by SERMAS Project, Grant Agreement No. 101070351.
+
+---
+
 ## Contributing
 
 We welcome contributions to improve XAINT! To get started:
